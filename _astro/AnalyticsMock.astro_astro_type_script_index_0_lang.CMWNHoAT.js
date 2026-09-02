@@ -1,0 +1,1 @@
+import{p as a}from"./cursor.CA2gsEC0.js";document.querySelectorAll('[data-demo="an"]').forEach(e=>{a(e,{loop:11e3,steps:[{at:0,x:30,y:80},{at:2400,el:".an-share",ox:.5,oy:.55,hover:".an-share"},{at:2540,press:!0,target:".an-share",add:["is-open"]},{at:5800,x:8,y:16},{at:5940,press:!0,remove:["is-open"]},{at:8600,x:30,y:80}]})});

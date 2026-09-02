@@ -1,0 +1,1 @@
+import{p as t}from"./cursor.CA2gsEC0.js";document.querySelectorAll('[data-demo="dv"]').forEach(e=>{t(e,{loop:11e3,steps:[{at:0,x:30,y:60},{at:2400,el:"#dv-create",ox:.55,oy:.55,hover:"#dv-create"},{at:2540,press:!0,target:"#dv-create",add:["is-open"]},{at:5800,x:8,y:85},{at:5940,press:!0,remove:["is-open"]},{at:8600,x:30,y:60}]})});
